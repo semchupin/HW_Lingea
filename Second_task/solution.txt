@@ -1,0 +1,5 @@
+Time to solve: 10 minutes
+I have a few thoughts about this problem that you presented in the second task.
+1) We can compare the similarity of the words and their positions and add weight to the each of these checks and have a number that will represent how good the machine translation was. 
+2) If we need to develop it for a large amount of data we can create an ML algorithm. It will have bad and good examples of the translation and based on this it will try to find the deal breaker between good and bad translation based on the word positions and word similarities. 
+3) As well we can use advanced spell checkers to count how much it will change the text, and because it not only will fix typos it will show pure word choice and other mistakes that a machine translation can make, and based on this decide how good the translation was.
