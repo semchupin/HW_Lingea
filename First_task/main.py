@@ -29,6 +29,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    timer = time.time()
     main()
-    print("Completed in", time.time() - timer, "sec.")
