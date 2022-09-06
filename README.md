@@ -15,5 +15,6 @@ cat .\alice29.txt | py .\main.py alice with days
 Scripts was tested on big text file (`alice29.txt`).
 
 ## Performants:
-main_polar.py: `Completed in 3.2996826171875 sec`.
-main.py: `Completed in 4.505359411239624 sec`.
+main_polar.py: Completed in 3.2996826171875 sec.
+
+main.py: Completed in 4.505359411239624 sec.
